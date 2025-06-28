@@ -1,0 +1,6 @@
+27-06-2025 20:20 INFO _internal ============>[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+27-06-2025 20:20 INFO _internal ============>[33mPress CTRL+C to quit[0m
+27-06-2025 20:22 INFO _internal ============>127.0.0.1 - - [27/Jun/2025 20:22:32] "GET / HTTP/1.1" 200 -
+27-06-2025 20:27 INFO _internal ============>127.0.0.1 - - [27/Jun/2025 20:27:20] "POST /predict HTTP/1.1" 200 -
+27-06-2025 20:28 INFO _internal ============>127.0.0.1 - - [27/Jun/2025 20:28:26] "POST /predict HTTP/1.1" 200 -
